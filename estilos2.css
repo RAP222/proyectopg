@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 40;
+    margin-right: 40;
+    background: linear-gradient(0deg, rgba(195,69,34,1) 0%, rgba(229,188,61,1) 50%, rgba(253,97,45,1) 100%);
+}
+
+h1 {
+    color: #b60000e5;
+    text-align: center;
+}
+
+#bienvenido {
+    color: #cc0202
+}
+
+#Uno {
+    color: #000000;
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+#poster{
+    color: #c90000;
+}
+#sinopsis{
+    color: #c90000;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+#trailer {
+    color: #c90000;
+}
+
+#reparto {
+    color: #c90000;
+}
+
+#table, th, td{
+    border: 1px solid;
+}
+
+
+
+.css-button-rounded--red {
+    text-align: center;
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid #d90429;
+    background: #d90429;
+  }
+  .css-button-rounded--red:hover {
+    background: #fff;
+    color: #d90429
+  }
+  
+footer {
+    color: #000000;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    border-top: 2px solid #000;
+}
+
+#ilselogo {
+    text-align: center;
+   }
